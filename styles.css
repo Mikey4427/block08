@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+div {
+    height: 250;
+    width: 250;
+    background-color: white;
+    font-size: 200px;
+    border-style: solid;
+    
+}
+section {
+    float: left;
+    margin-left: 10;
+}
+.p1 {
+    background-color: blue;
+}
